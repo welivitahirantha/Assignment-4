@@ -1,0 +1,93 @@
+Remark: Client was very satisfied with services provided.
+Category: client
+-------------------------------------------------
+Remark: Client was very satisfied with services provided.
+Category: client
+-------------------------------------------------
+Remark: Client was very satisfied with services provided.
+Category: client
+-------------------------------------------------
+Remark: Client was very satisfied with services provided.
+Category: client
+-------------------------------------------------
+Remark: Client was very satisfied with services provided.
+Category: client
+-------------------------------------------------
+Remark: Client was very satisfied with services provided.
+Category: client
+-------------------------------------------------
+Remark: Client was very satisfied with services provided.
+Category: client
+-------------------------------------------------
+Remark: Client was very satisfied with services provided.
+Category: client
+-------------------------------------------------
+Remark: Client was very satisfied with services provided.
+Category: client
+-------------------------------------------------
+Remark: Client was very satisfied with services provided.
+Category: client
+-------------------------------------------------
+Remark: Client was very satisfied with services provided.
+Category: client
+-------------------------------------------------
+Remark: Client was very satisfied with services provided.
+Category: client
+-------------------------------------------------
+Remark: This prescription is accurate and detailed.
+Category: client
+-------------------------------------------------
+Remark: This prescription is accurate and detailed.
+Category: client
+-------------------------------------------------
+Remark: This prescription is not accurate. The sphere, cylinder, and axis values are incorrect, and the patient is complaining about discomfort.
+Category: client
+-------------------------------------------------
+Remark: This is a valid client remark.
+Category: client
+-------------------------------------------------
+Remark: This prescription is accurate and detailed.
+Category: client
+-------------------------------------------------
+Remark: This prescription is not accurate. The sphere, cylinder, and axis values are incorrect, and the patient is complaining about discomfort.
+Category: client
+-------------------------------------------------
+Remark: This is a valid client remark.
+Category: client
+-------------------------------------------------
+Remark: This is a valid client remark.
+Category: client
+-------------------------------------------------
+Remark: This is a valid client remark.
+Category: client
+-------------------------------------------------
+Remark: This prescription is not accurate. The sphere, cylinder, and axis values are incorrect, and the patient is complaining about discomfort.
+Category: client
+-------------------------------------------------
+Remark: This prescription is not accurate. The sphere, cylinder, and axis values are incorrect, and the patient is complaining about discomfort.
+Category: client
+-------------------------------------------------
+Remark: This prescription is not accurate. The sphere, cylinder, and axis values are incorrect, and the patient is complaining about discomfort.
+Category: client
+-------------------------------------------------
+Remark: This prescription is not accurate. The sphere, cylinder, and axis values are incorrect, and the patient is complaining about discomfort.
+Category: client
+-------------------------------------------------
+Remark: This prescription is not accurate. The sphere, cylinder, and axis values are incorrect, and the patient is complaining about discomfort.
+Category: client
+-------------------------------------------------
+Remark: This prescription is accurate and detailed.
+Category: client
+-------------------------------------------------
+Remark: This prescription is not accurate. The sphere, cylinder, and axis values are incorrect, and the patient is complaining about discomfort.
+Category: client
+-------------------------------------------------
+Remark: This is a valid client remark.
+Category: client
+-------------------------------------------------
+Remark: This prescription is not accurate. The sphere, cylinder, and axis values are incorrect, and the patient is complaining about discomfort.
+Category: client
+-------------------------------------------------
+Remark: This is a client remark that should fail.
+Category: client
+-------------------------------------------------
